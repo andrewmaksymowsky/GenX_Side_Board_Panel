@@ -1,0 +1,2 @@
+freertos.c:70:6:MX_FREERTOS_Init	40	static
+freertos.c:104:6:getSwitchState	40	static

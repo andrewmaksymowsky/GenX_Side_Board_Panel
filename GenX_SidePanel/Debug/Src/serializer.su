@@ -1,0 +1,2 @@
+serializer.c:10:6:serializeSwitchStates	24	static
+serializer.c:24:6:send_data	16	static
